@@ -1,0 +1,117 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row{
+    margin: 0p auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding: 16px 30px 0px 30px;
+    margin: 0px auto;
+    height: 230px;
+    background: #9575CD;
+    color: floralwhite;
+}
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+
+.navbar-inverse {
+    background-color: #512DA8
+}
+@media(max-width:992px) {
+    .nav>li>a {
+        padding-left: 10px;
+        padding-right:10px
+        }
+    }
+
+.card {
+    margin-bottom: 0px;
+    border-bottom-width: 0px;
+    border-bottom: 1px solid #ddd;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.card-block {
+    height: 95px;
+    
+}
+.offset-3 {
+    margin-left: 28%;
+}
+
+.offset-2 {
+    margin-left: 25%;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.table-responsive {
+    margin: 0 auto;
+    width: 800px;
+ }
+ .navbar-text {
+    cursor: pointer;
+}
+.carousel {
+    background: #512DA8;
+    }
+.carousel-item {
+    height: 300px;
+}
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+.form-check {
+    color: black;
+    
+}
+.modal-header {
+    background: #9575CD;
+    border-bottom: 0px;
+}
+.modal-body {
+    background: peachpuff;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.modal-footer {
+    background: #9575CD;
+}
+#carousel-button {
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
+.ui-btn-active {
+    background-color: gray !important;
+    border-color: rgb(101, 104, 101) !important;
+    color: #fff !important;
+    text-shadow: none !important;
+}
